@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# updatemem v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Thu Dec 03 10:32:03 2020
+# Process ID: 11464
+# Log file: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/updatemem.log
+# Journal file: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2\updatemem.jou
+#-----------------------------------------------------------
+source C:/Xilinx/SDK/2015.2/scripts/updatemem/main.tcl -notrace

@@ -1,0 +1,71 @@
+/*
+
+Vivado v2015.2 (64-bit)
+SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+Process ID: 9188
+
+Current time: 	11/30/20 3:18:47 PM GMT
+Time zone: 	Greenwich Mean Time (Europe/London)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_25 64-bit
+Java home: 	C:/Xilinx/Vivado/2015.2/tps/win64/jre
+
+User name: 	alex7
+User directory: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+Vivado preferences path: C:/Users/alex7/AppData/Roaming/Xilinx/Vivado/2015.2/vivado.ini
+Vivado layouts directory: C:/Users/alex7/AppData/Roaming/Xilinx/Vivado/2015.2/layouts/application
+
+GUI allocated memory:	218 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 556 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: C:\Users\alex7\OneDrive\Desktop\ES3\Assignment2\es3_hw_assmnt_2\es3_hw_assmnt_2.xpr. Version: Vivado v2015.2 
+// cp:P (cl:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// Tcl Message: open_project C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/es3_hw_assmnt_2.xpr 
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/es3_hw_assmnt_2.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/s1301217/Desktop/ES3_Lab_Upgrade/Upgrade/Assessment_1_Calculator/es3_hw_assmnt_1' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 49 MB (+49308kb) [00:00:05]
+// [Engine Memory]: 403 MB (+271419kb) [00:00:05]
+// [GUI Memory]: 71 MB (+20279kb) [00:00:06]
+// [Engine Memory]: 431 MB (+7980kb) [00:00:06]
+// [GUI Memory]: 87 MB (+13100kb) [00:00:06]
+// [Engine Memory]: 470 MB (+17807kb) [00:00:06]
+// [Engine Memory]: 514 MB (+21560kb) [00:00:07]
+// [Engine Memory]: 545 MB (+5508kb) [00:00:07]
+// [GUI Memory]: 92 MB (+3kb) [00:00:08]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.2/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 556 MB. GUI used memory: 46 MB. Current time: 11/30/20 3:18:47 PM GMT
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: es3_hw_assmnt_2; location: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2; part: xc7a35tcpg236-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:07 . Memory (MB): peak = 811.383 ; gain = 235.910 
+dismissDialog("Open Project"); // cp:P (cl:JFrame)
+// TclEventType: DG_UPDATE_GRAPH

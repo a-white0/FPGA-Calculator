@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# updatemem v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# 
+# Start of session at: Tue Dec 01 17:19:13 2020
+# Process ID: 16336
+# Log file: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/updatemem.log
+# Journal file: C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2\updatemem.jou
+#-----------------------------------------------------------
+source C:/Xilinx/SDK/2015.2/scripts/updatemem/main.tcl -notrace
+Loading bitfile C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/es3_hw_assmnt_2.sdk/top_hw_platform_0/top.bit
+Loading data files...
+Updating memory content...
+Creating bitstream...
+Writing bitstream C:/Users/alex7/OneDrive/Desktop/ES3/Assignment2/es3_hw_assmnt_2/es3_hw_assmnt_2.sdk/top_hw_platform_0/download.bit...
+update_mem: Time (s): cpu = 00:00:14 ; elapsed = 00:00:15 . Memory (MB): peak = 488.609 ; gain = 431.555
+INFO: [Common 17-206] Exiting updatemem at Tue Dec 01 17:19:28 2020...
